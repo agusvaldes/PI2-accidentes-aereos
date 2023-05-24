@@ -1,6 +1,7 @@
 # Proyecto de Análisis de Accidentes Aéreos
 
 Este proyecto tiene como objetivo realizar un análisis detallado de los accidentes aéreos ocurridos entre 1908 y 2021. Durante los últimos más de 100 años, la industria de la aviación ha experimentado grandes procesos de crecimiento y evolución. Detrás de este progreso, encontramos desafíos en términos de seguridad debido a la gran cantidad de accidentes que han ocurrido a lo largo de este período.
+
 ![Logo](https://github.com/agusvaldes/PI2-accidentes-aereos/blob/main/Imagenes_dashboard/portada.png)
 
 ## Descripción del Proyecto
@@ -39,6 +40,7 @@ En la primer página se puede observar un análisis general de los datos, descri
 * Tipo de avión, 
 * Proporción por categoria,
 * Distribución de aerolineas con más accidentes.
+
 ![Logo](https://github.com/agusvaldes/PI2-accidentes-aereos/blob/main/Imagenes_dashboard/pag1.png)
 
 En la segunda página, se presentan dos KPIs:
@@ -50,7 +52,9 @@ En este gráfico de línea, se representa la reducción anual de la tasa de mort
 #### KPI 2: Reducción de la Tasa de Accidentes en Estados Unidos
 
 En este gráfico de línea, se muestra la reducción anual de la tasa de accidentes en Estados Unidos. Se resaltan aquellos años en los que se logró una reducción del 5% en comparación con el año anterior. También se incluye un medidor que indica el porcentaje de reducción de la tasa de accidentes en Estados Unidos.
+
 ![Logo](https://github.com/agusvaldes/PI2-accidentes-aereos/blob/main/Imagenes_dashboard/pag2.png)
+
 
 En esta última página, se presentan los siguientes KPIs:
 
@@ -61,4 +65,5 @@ En este gráfico de barras, se visualiza el total de accidentes que han ocurrido
 #### KPI 4: Tasa de Supervivencia en Aerolíneas con Alta Siniestralidad
 
 En este gráfico de línea, se muestra la tasa de supervivencia anual en aerolíneas con alta siniestralidad. Se resaltan aquellas aerolíneas que han tenido éxito en implementar medidas de seguridad efectivas en relación a los accidentes aéreos, y además, se grafica una tabla con las marcas de los aviones que compraron estas aerolineas.
+
 ![Logo](https://github.com/agusvaldes/PI2-accidentes-aereos/blob/main/Imagenes_dashboard/pag3.png)
