@@ -70,3 +70,6 @@ En este gráfico de barras, se visualiza el total de accidentes que han ocurrido
 En este gráfico de línea, se muestra la tasa de supervivencia anual en aerolíneas con alta siniestralidad. Se resaltan aquellas aerolíneas que han tenido éxito en implementar medidas de seguridad efectivas en relación a los accidentes aéreos, y además, se grafica una tabla con las marcas de los aviones que compraron estas aerolineas.
 
 ![Logo](https://github.com/agusvaldes/PI2-accidentes-aereos/blob/main/Imagenes_dashboard/pag3.png)
+
+
+La elección de una escala de grises permite que los datos sean el foco principal de atención, sin distraer con colores llamativos. El gris se asocia comúnmente con neutralidad y objetividad, lo que es apropiado para presentar datos de accidentes aéreos, ya que se busca transmitir la información de manera clara y sin sesgos emocionales.
