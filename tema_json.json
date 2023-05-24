@@ -1,0 +1,188 @@
+{
+    "name": "AgusvaldesTheme",
+    "dataColors": [
+        "#D3D3D3",
+        "#C0C0C0",
+        "#ADADAD",
+        "#9A9A9A",
+        "#878787",
+        "#747474",
+        "#616161",
+        "#4E4E4E",
+        "#3B3B3B",
+        "#282828",
+        "#151515",
+        "#000000"
+    ],
+    "background": "#FFFFFF",
+    "foreground": "#000000",
+    "tableAccent": "#616161",
+    "visualStyles": {
+        "page": {
+            "*": {
+                "background": [
+                    {
+                        "color": {
+                            "solid": {
+                                "color": "#F0F0F0"
+                            }
+                        },
+                        "transparency": 0
+                    }
+                ],
+                "outspace": [
+                    {
+                        "color": {
+                            "solid": {
+                                "color": "#DFDFE9"
+                            }
+                        }
+                    }
+                ],
+                "displayArea": [
+                    {
+                        "verticalAlignment": "Middle"
+                    }
+                ]
+            }
+        },
+        "*": {
+            "*": {
+                "outspacePane": [
+                    {
+                        "backgroundColor": {
+                            "solid": {
+                                "color": "#DFDFE9"
+                            }
+                        },
+                        "foregroundColor": {
+                            "solid": {
+                                "color": "#323447"
+                            }
+                        },
+                        "checkboxAndApplyColor": {
+                            "solid": {
+                                "color": "#60CDFF"
+                            }
+                        }
+                    }
+                ],
+                "filterCard": [
+                    {
+                        "$id": "Applied",
+                        "backgroundColor": {
+                            "solid": {
+                                "color": "#FCFDFE"
+                            }
+                        },
+                        "foregroundColor": {
+                            "solid": {
+                                "color": "#323447"
+                            }
+                        },
+                        "transparency": 0
+                    },
+                    {
+                        "$id": "Available",
+                        "backgroundColor": {
+                            "solid": {
+                                "color": "#F1F2F7"
+                            }
+                        },
+                        "foregroundColor": {
+                            "solid": {
+                                "color": "#323447"
+                            }
+                        },
+                        "transparency": 0
+                    }
+                ],
+                "background": [
+                    {
+                        "color": {
+                            "solid": {
+                                "color": "#F0F0F0"
+                            }
+                        }
+                    }
+                ],
+                "border": [
+                    {
+                        "color": {
+                            "solid": {
+                                "color": "#F0F0F0"
+                            }
+                        },
+                        "show": true,
+                        "radius": 5
+                    }
+                ],
+                "visualHeader": [
+                    {
+                        "background": {
+                            "solid": {
+                                "color": "#F0F0F0"
+                            }
+                        },
+                        "foreground": {
+                            "solid": {
+                                "color": "#000000"
+                            }
+                        },
+                        "border": {
+                            "solid": {
+                                "color": "#F0F0F0"
+                            }
+                        }
+                    }
+                ],
+                "visualTooltip": [
+                    {
+                        "titleFontColor": {
+                            "solid": {
+                                "color": "#262735"
+                            }
+                        },
+                        "valueFontColor": {
+                            "solid": {
+                                "color": "#2C2C2C"
+                            }
+                        },
+                        "background": {
+                            "solid": {
+                                "color": "#F8FAF7"
+                            }
+                        }
+                    }
+                ],
+                "visualHeaderTooltip": [
+                    {
+                        "titleFontColor": {
+                            "solid": {
+                                "color": "#262735"
+                            }
+                        },
+                        "background": {
+                            "solid": {
+                                "color": "#F8FAF7"
+                            }
+                        }
+                    }
+                ],
+                "dropShadow": [
+                    {
+                        "position": "Outer",
+                        "show": false,
+                        "color": {
+                            "solid": {
+                                "color": "#000000"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}
+
+
