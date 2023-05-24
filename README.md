@@ -32,7 +32,7 @@ Durante el EDA, se llevaron a cabo las siguientes etapas de análisis:
 
 El dashboard consta de 1 portada y 3 páginas navegables a través de una botonera de navegación.
 
-En la primer página se puede observar un análisis general de los datos, describiendo:
+### En la primer página se puede observar un análisis general de los datos, describiendo:
 
 * Número total de accidentes,
 * Total de fallecidos y total de sobrevivientes,
@@ -43,7 +43,9 @@ En la primer página se puede observar un análisis general de los datos, descri
 
 ![Logo](https://github.com/agusvaldes/PI2-accidentes-aereos/blob/main/Imagenes_dashboard/pag1.png)
 
-En la segunda página, se presentan dos KPIs:
+
+
+### En la segunda página, se presentan dos KPIs:
 
 #### KPI 1: Reducción de la Tasa de Mortalidad
 
@@ -56,7 +58,8 @@ En este gráfico de línea, se muestra la reducción anual de la tasa de acciden
 ![Logo](https://github.com/agusvaldes/PI2-accidentes-aereos/blob/main/Imagenes_dashboard/pag2.png)
 
 
-En esta última página, se presentan los siguientes KPIs:
+
+### En esta última página, se presentan los siguientes KPIs:
 
 #### KPI 3: Accidentes en Agua
 
